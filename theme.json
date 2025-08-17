@@ -1,0 +1,10 @@
+{
+  "primary": "#bb86fc",
+  "secondary": "#3700b3",
+  "accent": "#03dac6",
+  "background": "linear-gradient(135deg, #121212 0%, #1e1e1e 50%, #2d2d2d 100%)",
+  "cardBackground": "linear-gradient(135deg, rgba(255,255,255,0.05), rgba(187,134,252,0.1))",
+  "textColor": "#ffffff",
+  "borderColor": "#333333",
+  "themeName": "Dark Theme"
+}
